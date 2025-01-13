@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MainScreen() {
-    var name by remember { mutableStateOf("Android") }
+    var name by remember { mutableStateOf("World") }
     var inputText by remember { mutableStateOf("") }
     val database = Firebase.database
     val myRef = database.getReference("messages")
