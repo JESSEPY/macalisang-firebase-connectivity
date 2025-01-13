@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "111888340359",
+    "firebase_url": "https://macalisang-1d0b8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "macalisang-1d0b8",
+    "storage_bucket": "macalisang-1d0b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111888340359:android:9452eabca54eb7f8722f22",
+        "android_client_info": {
+          "package_name": "com.example.macalisang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATG0REE7MfamelflR03PJlwI_B0ElvjWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
